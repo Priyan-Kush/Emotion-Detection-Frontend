@@ -1,0 +1,29 @@
+body, html {
+    margin: 50px;
+    padding: 50px;
+    height: 100%;
+    background-color: #EDF2F4;
+}
+
+#hero{
+    height: 450px;
+    width: 100%;
+    background-image: url('../assets/images/7037041.png');
+    background-size: cover;
+    background-position: bottom center;
+    background-repeat: no-repeat;
+    position: relative; 
+    display: flex; 
+    justify-content: center; 
+    align-items: flex-end;
+}
+
+.custom-font {
+    font-family: 'Libre Franklin';
+    font-size: 30px;
+    font-weight: bold;
+    display: flex;
+    transform: translateY(-160px);
+    text-align: center;
+
+}
