@@ -27,3 +27,19 @@ body, html {
     text-align: center;
 
 }
+
+#start{
+    border-radius: 15px;
+    background-color: #8856F1;
+    padding: 20px;
+    margin: auto;
+    display: flex;
+    color: white; 
+    justify-content: center; 
+    align-items: center; 
+    width: 180px; 
+    height: 60px;
+    font-size: 20px; 
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -130px;
+}
